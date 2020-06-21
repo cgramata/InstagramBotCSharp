@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KuyaGames\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KuyaGames\\.nuget\\packages"
+    ]
+  }
+}

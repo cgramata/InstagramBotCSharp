@@ -1,0 +1,17 @@
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\InstagramBot.exe
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.AssemblyInfoInputs.cache
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.AssemblyInfo.cs
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\InstagramBot.deps.json
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\InstagramBot.runtimeconfig.json
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\InstagramBot.runtimeconfig.dev.json
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\InstagramBot.dll
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\InstagramBot.pdb
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\WebDriver.dll
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.csproj.CopyComplete
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.dll
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.pdb
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.genruntimeconfig.cache
+A:\Workspace\InstagramBot\InstagramBot\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.csproj.CoreCompileInputs.cache
+A:\Workspace\InstagramBot\InstagramBot\obj\Debug\netcoreapp3.1\InstagramBot.csprojAssemblyReference.cache
